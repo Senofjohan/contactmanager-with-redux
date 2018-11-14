@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Contact /> renders correctly  1`] = `
+<Contact
+  clearContacts={[Function]}
+  contact={
+    Object {
+      "email": "john@gmail.com",
+      "id": 1,
+      "name": "John Doe",
+      "phone": "555-555-5555",
+    }
+  }
+  deleteContact={[Function]}
+  store={
+    Object {
+      "clearActions": [Function],
+      "dispatch": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+/>
+`;
+
+exports[`<Home /> renders correctly  1`] = `
+<Contact
+  clearContacts={[Function]}
+  contact={
+    Object {
+      "email": "john@gmail.com",
+      "id": 1,
+      "name": "John Doe",
+      "phone": "555-555-5555",
+    }
+  }
+  deleteContact={[Function]}
+  store={
+    Object {
+      "clearActions": [Function],
+      "dispatch": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+/>
+`;
+
+exports[`renders correctly  1`] = `
+<Contact
+  clearContacts={[Function]}
+  contact={
+    Object {
+      "email": "john@gmail.com",
+      "id": 1,
+      "name": "John Doe",
+      "phone": "555-555-5555",
+    }
+  }
+  deleteContact={[Function]}
+  store={
+    Object {
+      "clearActions": [Function],
+      "dispatch": [Function],
+      "getActions": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+/>
+`;

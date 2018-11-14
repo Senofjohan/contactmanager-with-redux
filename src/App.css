@@ -1,0 +1,11 @@
+.nav-item a {
+  color: white !important;
+  display: block;
+  border-bottom: 2px solid transparent;
+}
+
+.nav-link:hover {
+  color: black !important;
+  transition: 0.3s;
+  border-bottom: 2px solid black;
+}
